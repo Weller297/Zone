@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'ROR';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'RUR';
+    src: url(../fonts/Rubik-Regular.ttf);
+}
+@font-face {
+    font-family: 'RUM';
+    src: url(../fonts/Rubik-Medium.ttf);
+}
+@font-face {
+    font-family: 'DR';
+    src: url(../fonts/DMSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'DM';
+    src: url(../fonts/DMSans-Medium.ttf);
+}
+@font-face {
+    font-family: 'DB';
+    src: url(../fonts/DMSans-Bold.ttf);
+}
